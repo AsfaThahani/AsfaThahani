@@ -18,8 +18,3 @@ I am an Information Technology student (4.0 GPA) and an aspiring UI/UX Designer 
 - **MemoryLane:** A dynamic digital scrapbook web application powered by HTML, CSS, JavaScript, PHP, and MySQL.
 - **AutoAccounts:** Custom automated accounting and inventory software designed for an automotive workshop.
 - **SmartDine:** Desktop restaurant POS and inventory system featuring clean, custom interface panels.
-
-📫 **How to reach me:**
-- **LinkedIn:** [Asfa Thahani](https://www.linkedin.com/in/asfa-thahani)
-- **Email:** [asfa.thahani2024@gmail.com]
-- **Portfolio:** [asfa-thahani-portfolio.netlify.app](https://asfa-thahani-portfolio.netlify.app/)
