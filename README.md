@@ -1,6 +1,6 @@
 Hi there, I'm Asfa Thahani 👋
 
-I am an HNDIT student (Higher National Diploma in IT, 4.0 GPA) and an aspiring Full Stack Developer & UI/UX Designer. I specialize in designing clean, modern interfaces and bringing them to life as highly functional, user-friendly applications.
+I am a HNDIT student (Higher National Diploma in IT, 4.0 GPA) and an aspiring Full Stack Developer & UI/UX Designer. I specialize in designing clean, modern interfaces and bringing them to life as highly functional, user-friendly applications.
 
 🚀 **Current Focus:**
 - Designing minimalist UI/UX wireframes in Figma.
