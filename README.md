@@ -13,7 +13,9 @@ I am a HNDIT student (Higher National Diploma in IT, 4.0 GPA) and an aspiring Fu
 - **Tools:** Git, GitHub, Postman, VS Code, Visual Studio, Figma, Google ML Kit, npm
 
 📌 **Featured Projects:**
-- **Circl:** A community resource-sharing mobile app (Flutter).
+- **Circl:** A community resource-sharing and microservices mobile app (Flutter).
+- **GP-Auto:** A full-stack workshop management system featuring a real-time analytics dashboard, AI-powered business insights, and PDF invoicing (MERN Stack, Gemini API).
+- **Circl Web:** A responsive product showcase landing page featuring an in-browser app simulator, theme switching, and a trilingual interface (HTML, Tailwind CSS, JS).
 - **DreamSpace:** A desktop interior design and space planning visualization app (Java).
 - **MemoryLane:** A dynamic digital scrapbook web application (HTML, CSS, JavaScript, PHP, MySQL)
 - **AutoAccounts:** Custom automated accounting and inventory software designed for an automotive workshop (C#, SQL Server).
