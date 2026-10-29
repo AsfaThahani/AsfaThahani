@@ -1,15 +1,16 @@
 Hi there, I'm Asfa Thahani 👋
 
-I am an Information Technology student (4.0 GPA) and an aspiring UI/UX Designer & Full Stack Developer. I specialize in designing clean, modern interfaces and bringing them to life as highly functional, user-friendly applications.
+I am an HNDIT student (Higher National Diploma in IT, 4.0 GPA) and an aspiring Full Stack Developer & UI/UX Designer. I specialize in designing clean, modern interfaces and bringing them to life as highly functional, user-friendly applications.
 
 🚀 **Current Focus:**
 - Designing minimalist UI/UX wireframes in Figma.
 - Building mobile and web apps.
 
 💻 **Tools & Tech Stack:**
-- **Design:** Figma, Photoshop, Illustrator, Canva
-- **Frontend & Mobile:** Flutter, Dart, HTML, CSS, JavaScript
-- **Backend & Databases:** Java, C#, PHP, Supabase, MySQL, PostgreSQL, SQL Server
+- **Languages:** Dart, Java, JavaScript, C#, PHP, SQL, HTML, CSS
+- **Frameworks & Platforms:** React.js, Node.js, Express.js, Flutter, Java Swing, Windows Forms, Supabase
+- **Data & Integrations:** MongoDB Atlas, Mongoose ODM, PostgreSQL, MySQL, SQL Server, WebSockets, Google OAuth, Google Maps API, Google Gemini AI API, RESTful APIs
+- **Tools:** Git, GitHub, Postman, VS Code, Visual Studio, Figma, Google ML Kit, npm
 
 📌 **Featured Projects:**
 - **Circl:** A community resource-sharing mobile app (Flutter).
